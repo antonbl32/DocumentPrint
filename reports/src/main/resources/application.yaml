@@ -1,0 +1,6 @@
+server:
+  port: 8080
+com:
+  biclast:
+    report-location: classpath:rep
+    storage-location: classpath:jasper

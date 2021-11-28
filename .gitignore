@@ -1,0 +1,4 @@
+# Project exclude paths
+/dataPrint/target/
+/reports/rep/
+/reports/target/
